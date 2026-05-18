@@ -135,20 +135,6 @@ npm run dev
 | MONGO_URI | MongoDB Database URL |
 | JWT_SECRET | Secret key for JWT |
 | PORT | Backend Server Port |
-
----
-
-# 📸 Screenshots
-
-## 🔐 Login Page
-- Secure login system with JWT authentication.
-
-## 📝 Register Page
-- User registration with validation.
-
-## 📊 Dashboard
-- Create, update, and manage tasks.
-
 ---
 
 # 🚀 Deployment
@@ -175,8 +161,6 @@ Based on assignment requirements provided in the coding assignment document. :co
 
 ---
 
-# 👨‍💻 Author
-
 ## Vicky Kumar
 
 - MERN Stack Developer
@@ -194,8 +178,3 @@ Based on assignment requirements provided in the coding assignment document. :co
 - Dark Mode
 - Real-time Collaboration
 
----
-
-# 📄 License
-
-This project is created for educational and assignment purposes.
